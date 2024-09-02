@@ -77,3 +77,23 @@ DerivedDataCache/*
 DerivedDataCache/*
 
 .DS_Store
+
+*.uasset
+
+*.umap
+
+*.bin
+
+AsianVillage 5.4/Saved/Config/CrashReportClient/UECC-Mac-C3CF887F35499944067C9EBD6FEDD206/CrashReportClient.ini
+
+AsianVillage 5.4/Saved/Config/CrashReportClient/UECC-Mac-D5EB7B19BC47D6BD3B9624A9CAA41CAF/CrashReportClient.ini
+
+AsianVillage 5.4/Saved/Config/CrashReportClient/UECC-Mac-B690EBCE7E423CF8A24F6987B663E752/CrashReportClient.ini
+
+AsianVillage 5.4/Saved/Config/CrashReportClient/UECC-Mac-A47B1DC6F6478507B9F345A7A346F241/CrashReportClient.ini
+
+AsianVillage 5.4/Saved/Config/CrashReportClient/UECC-Mac-438E61A562440F89BA0B66B64B82AB31/CrashReportClient.ini
+
+AsianVillage 5.4/Saved/Config/CrashReportClient/UECC-Mac-0B1D1C97F24D27F99401049AB31FD055/CrashReportClient.ini
+
+*.dmp
